@@ -15,11 +15,11 @@ My background combines professional aerospace engineering experience with system
 
 ## Featured Projects
 
-### [Linux USB Keyboard Driver](https://github.com/sonidosis/Systems-Programming-Project)
+### [Linux USB Keyboard Driver](https://github.com/sonidosis/linux-usb-keyboard-driver)
 
 Linux systems-programming project modifying a USB keyboard driver in C to implement custom operating modes. Includes kernel-module development, shell scripting, Make-based compilation, debugging, and functional testing.
 
-### [Traffic Sign Classification with a CNN](https://github.com/sonidosis/ML-project)
+### [Traffic Sign Classification with a CNN](https://github.com/sonidosis/traffic-sign-cnn)
 
 Machine-learning project using Python, TensorFlow, and Keras to develop, train, and evaluate a convolutional neural network for traffic-sign image classification.
 
